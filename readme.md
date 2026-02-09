@@ -56,3 +56,37 @@ Developed by **Sebastian Januchowski** for **polsoft.ITS™ London**.
 
 ---
 > **PyCompiler 2.1** – Because your code deserves a professional finish.
+>
+> # 🚀 PyCompiler 2.1 – polsoft.ITS™ London
+
+### **Zaawansowane narzędzie GUI do kompilacji Python do EXE**
+
+**PyCompiler 2.1** to profesjonalna nakładka graficzna na PyInstaller, zaprojektowana w celu usprawnienia tworzenia plików wykonywalnych Windows. Stworzona przez **polsoft.ITS™ London**, oferuje nowoczesne środowisko do zarządzania metadanymi i zasobami bez konieczności używania linii komend.
+
+---
+
+## ✨ Kluczowe funkcje
+* **Kompilacja jednym kliknięciem:** Szybka konwersja skryptów `.py` na samodzielne pliki `.exe`.
+* **Automatyzacja metadanych:** Automatyczne osadzanie wersji, opisu i praw autorskich (©2026) we właściwościach pliku.
+* **Zarządzanie zasobami:** Łatwe dołączanie własnych ikon (`.ico`), plików danych (JSON, obrazy) oraz całych folderów.
+* **Wskaźniki statusu:** Zintegrowane diody LED weryfikujące gotowość plików źródłowych i zasobów.
+* **Terminal na żywo:** Podgląd logów kompilacji w czasie rzeczywistym dzięki rozwijanemu panelowi.
+
+---
+
+## 🛠 Szczegóły techniczne
+* **Język:** Python 3.x.
+* **Framework:** Tkinter ze wsparciem High-DPI i animowanym brandingiem 3D.
+* **Wymagania:** `pip install pyinstaller`.
+* **Kompatybilność:** Windows 8, 10 oraz 11.
+
+---
+
+## 🚀 Szybki Start
+1. **Źródło:** Wybierz główny skrypt `.py`.
+2. **Konfiguracja:** Ustaw nazwę aplikacji i 4-częściowy numer wersji.
+3. **Personalizacja:** Opcjonalnie dodaj ikonę i dodatkowe foldery z danymi.
+4. **Kompilacja:** Kliknij **"Kompiluj do EXE"** – wynik znajdziesz w folderze `dist`.
+
+---
+**© 2026 polsoft.ITS™ London | Autor: Sebastian Januchowski**
